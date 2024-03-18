@@ -1,0 +1,8 @@
+hello.ppt
+*.yaml
+*.json
+*.doc
+*.docx
+*.pdf
+*.log
+log/
